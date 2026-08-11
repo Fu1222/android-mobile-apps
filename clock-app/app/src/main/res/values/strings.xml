@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClockApp</string>
+    <string name="tab_analog">指针时钟</string>
+    <string name="tab_digital">数字时钟</string>
+</resources>
